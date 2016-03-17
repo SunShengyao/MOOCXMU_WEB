@@ -17,3 +17,10 @@ gistid：b4d1a8fcba59726eac88
 
 推荐使用网站：Github
 要求：云协作
+
+Coursera连接不顺解决方法：
+1、修改Hosts，修改方法自行百度或Google。
+216.137.55.249 d2wvvaown1ul17.cloudfront.net
+54.230.66.75 d1hpa2gdx2lr6r.cloudfront.net
+54.230.67.22 dt5zaw6a98blc.cloudfront.net
+54.230.64.154 duqnjvq4jwr55.cloudfront.net
