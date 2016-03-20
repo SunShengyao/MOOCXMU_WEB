@@ -1,26 +1,47 @@
-课程平台：Coursera
-课程名称：Responsive Website Basics: Code with HTML, CSS, and JavaScript
+课程平台：Udacity
+课程名称：Intro to HTML and CSS
 
 推荐使用编辑工具：Atom
-
+Atom使用介绍：http://wiki.jikexueyuan.com/project/atom/
 常用Atom插件：
 1、sync-setting:同步Atom设置，插件。
 2、previewHTML：实时显示HTML代码。
-3、Emmet：自动补全封闭代码。
-
 更多Package请点击 https://atom.io/packages
 
 同步我的插件：
 syncsetting：
 access token：d1aeb72ef22d4e8393c8239f3d50cc81535312df
 gistid：b4d1a8fcba59726eac88
+学习网站：www.w3schools.com
+中文网站：www.w3scholl.com.cn
 
-推荐使用网站：Github
-要求：云协作
 
-Coursera连接不顺解决方法：
-1、修改Hosts，修改方法自行百度或Google。
-216.137.55.249 d2wvvaown1ul17.cloudfront.net
-54.230.66.75 d1hpa2gdx2lr6r.cloudfront.net
-54.230.67.22 dt5zaw6a98blc.cloudfront.net
-54.230.64.154 duqnjvq4jwr55.cloudfront.net
+要求使用网站：Github
+要求：
+1、注册一个github账户，并通过邮箱验证。（右上角账户图标-your profile-edit profile-emails，发送邮件并打开邮箱验证。）
+2、将你们的账户名称发送给我，我拉你们进本课程的Repository：MOOCXMU_WEB。
+
+作业：
+1、完成Udacity上每周视频中间的测验
+2、随意选择一个网页，查看源代码，并选出至少五个知识点，解释该知识点并应用在一段网页代码里面。
+3、将你应用的网页代码提交到我们的公共Repository，操作方法：
+   登陆的你github，在我拉你进MOOCXMU_WEB之后，你的账户首页右下角会出现该仓库，点击进去，branch选择相应周次，点击
+   newfile，粘贴进你的代码，文件名为你的名字，点击提交。
+4、修改并评价你另外三个小伙伴的代码：在其他人提交之后，你可以在相应的branch里面看到其他人的文件。点击进去再点击编辑图标就能编辑。
+   在里面添加你的评论或者指出错误，并留下你的名字。
+
+5、下周活动我们将对本周的作业或者问题轮流展示或者进行讨论。你可以展示作业或者任何你想展示的东西，内容形式我们不限但是一定要有展示。
+
+
+Udacity访问不顺解决办法：
+1、修改DNS。各不同系统修改方法请自行搜索，网上教程一大堆。特别提示安卓系统分裂化严重，有些版本root之前不能完美修改dns，比如我现在用的6.0就是。
+
+2、VPN。不建议使用。免费的不可靠收费的IP封的太快。目前针对VPN各种协议已经有了比较完整的IP搜索方案。
+3、shadowsocks
+   这玩意儿是什么请自行搜索。github上有谷歌必应也有。百度不用试了根据相关国家政策已经屏蔽部分搜索内容。
+   推荐一个免费账户网站：ishadowsocks.net
+   付费账户请自己选择适合自己的服务商和套餐，这里不推荐任何付费服务商，因为我没用过，而且理论上任何服务商都能拦截你的数据。
+   如果因科研需要需要稳定账户，建议自架服务器。关键字 bandwagonhosts shadowsocks。
+   老师提供的方案已经能解决大部分问题。还是那句话百度不到的请谷歌。
+
+备注：不推荐使用goagent以及github上其其他同原理衍生产品。
