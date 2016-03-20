@@ -1,12 +1,24 @@
-课程平台：Coursera
-课程名称：Responsive Website Basics: Code with HTML, CSS, and JavaScript
+课程平台：Udacity
+课程名称：Intro to HTML and CSS
+每周上一个大的节次。本周上到Lesson 1：Practice；
+
+作业：
+1、完成相应的课程内测试
+2、打开一个网页，点击查看源代码，从里面挑出五个语法点或者知识点，做笔记并运用到一段网页代码上。
+3、将代码上传到Github的本仓库（需要先把Github账户发给我，我共享给你们），并修改或者评价另外三个人的代码。
+
+以上仅为建议作业形式，如果有替代方案可在另外三人同意后进行。
+
+学习网站：https://www.w3schools.com
+中文网站：http://www.w3school.com.cn
+
 
 推荐使用编辑工具：Atom
 
+Atom使用技巧：http://wiki.jikexueyuan.com/project/atom/
 常用Atom插件：
 1、sync-setting:同步Atom设置，插件。
 2、previewHTML：实时显示HTML代码。
-3、Emmet：自动补全封闭代码。
 
 更多Package请点击 https://atom.io/packages
 
@@ -15,12 +27,32 @@ syncsetting：
 access token：d1aeb72ef22d4e8393c8239f3d50cc81535312df
 gistid：b4d1a8fcba59726eac88
 
-推荐使用网站：Github
-要求：云协作
 
-Coursera连接不顺解决方法：
-1、修改Hosts，修改方法自行百度或Google。
-216.137.55.249 d2wvvaown1ul17.cloudfront.net
-54.230.66.75 d1hpa2gdx2lr6r.cloudfront.net
-54.230.67.22 dt5zaw6a98blc.cloudfront.net
-54.230.64.154 duqnjvq4jwr55.cloudfront.net
+
+使用网站：Github
+Github使用介绍（中文）：http://wiki.jikexueyuan.com/project/github-basics/
+Udacity上也有Github使用的课程。
+要求：
+1、注册Github账号，并通过邮箱审核。（右上角账户-yuor profile-edit profile-Emails，点击发送邮件并确认）
+2、将你的账户名和邮箱一起发给我（避免某个不能用我又得找你一遍），我把你拉进我们的repositories。
+
+作业：
+我拉你们进共用repositories：MOOCXMU_WEB(就是这个文件存在的repositories）后，你们打开自己的github，右下角就会出现这个repositories链接。
+打开此链接，bunch选择相应周次，点击Newfile，粘贴你的代码，命名为自己的名字，commit提交即可。别忘了提交后告知你的另外三个小伙伴。
+修改其他人的作业可以直接点开文件，点击编辑图标添加你的意见和评论。
+
+
+Udacity连接不顺解决方法：
+1、修改DNS
+ MAC ：http://jingyan.baidu.com/article/fc07f9891f626712ffe519cf.html
+ Windows：http://jingyan.baidu.com/article/f71d60375584591ab641d13c.html
+ ios：http://jingyan.baidu.com/article/2c8c281de228e20008252a22.html
+ Android分裂化严重，各版本可能不同。我之前4.4可以改，现在更新6.0只能每次改一次。下面只给一个例子，其他版本大同小异。
+ http://jingyan.baidu.com/article/8ebacdf0cae95649f75cd57c.html
+ 
+2、VPN。五花缭乱。不建议使用VPN，被封的太快。
+3、shadowsocks
+   shadowsocks是其作者Clowwindy在GitHub上发布的开源软件。具体使用方法请自行搜索，github上有谷歌也有。
+   这里给出一个公布免费shadowsocks账号的网站：http://www.ishadowsocks.net/
+   付费shadowsocks很多，请自行选择适合自己的服务商和套餐。但是不推荐购买付费shadowsocks账户，理论上运营商可拦截你的数据。
+   自建shadowsocks服务器请google关键字 bandwagonhosts shadowsocks。
